@@ -1,3 +1,6 @@
+
+3) Write a function that takes two numbers a and b as input arguments and returns their product as return value , without using * operator.
+    
 def product(a, b):
     return a * b
 
