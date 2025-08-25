@@ -1,3 +1,5 @@
+1) Write a function to calculate simple interest. Call it in main function with appropriate inputs and print the total amount the user will get after the tenure (principle + interest)
+
 def simple_interest(principal, rate, time):
     interest = (principal * rate * time )/100
     return interest
