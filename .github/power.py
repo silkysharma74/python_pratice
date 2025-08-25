@@ -1,3 +1,5 @@
+2) Write a function that takes two numbers, a and n as input arguments and returns the value of a to the power of n.
+
 def power(a, n):
     return a**n
 
